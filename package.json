@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "React Practice",
   "scripts": {
-    "start": "nodemon --inspect-brk ./assignments/July-16/solution-3.js"
+    "start": "nodemon --inspect-brk ./assignments/July-16/solution-5.js"
   },
   "repository": {
     "type": "git",
