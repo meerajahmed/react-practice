@@ -3,7 +3,7 @@
  */
 
 const countGenerator = function *() {
-  let count = 0  ;
+  let count = 0;
   while( count < count + 1 ) {
     yield count++;
   }
