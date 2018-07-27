@@ -1,0 +1,24 @@
+{
+  "name": "react-practice",
+  "version": "1.0.0",
+  "description": "React Practice",
+  "scripts": {
+    "start": "nodemon --inspect-brk ./assignments/July-16/solution-3.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meerajahmed/react-practice.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Meeraj Ahmed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meerajahmed/react-practice/issues"
+  },
+  "homepage": "https://github.com/meerajahmed/react-practice#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
